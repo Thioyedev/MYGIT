@@ -1,1 +1,1 @@
-# MYGIT
+# MYGIT is beautiful
